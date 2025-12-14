@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Compiled or binary files
+*.exe
+*.zip
+*.rar
+*.msi
+*.mp4
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.ai
+*.pptx
+*.xlsx
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
